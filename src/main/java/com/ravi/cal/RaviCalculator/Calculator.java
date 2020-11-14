@@ -32,7 +32,10 @@ public class Calculator {
 		
 		return first*second;
 	}
-	
+	public long divfun(long first, long second){
+		
+		return second/first;
+	}
 	
 	public static void main(String[] args) {
 
